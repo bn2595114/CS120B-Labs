@@ -5,6 +5,16 @@
  * Author : Bryan
  */ 
 
+
+/* Partner(s) Name & E-mail: N/A
+* Lab Section: 027
+* Assignment: Intro to Atmel Studio Software Lab #2 Exercise #2
+* Exercise Description: Build, debug, testing inputs and outputs
+*
+* I acknowledge all content contained herein, excluding template or example
+* code, is my own original work.
+*/
+
 #include <avr/io.h>
 
 
