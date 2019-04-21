@@ -1,7 +1,7 @@
 /*	Partner 1 Name & E-mail: Chris
  *	Partner 2 Name & E-mail: X
  *	Lab Section: 027
- *	Assignment: Lab #4  Exercise #2
+ *	Assignment: Lab #5  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *	
  *	I acknowledge all content contained herein, excluding template or example
